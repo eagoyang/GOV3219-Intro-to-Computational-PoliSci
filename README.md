@@ -1,2 +1,2 @@
 # GOV3219-Intro-to-CPS
-This is the course materials for the GOV3219 Intro to Computational Political Science offered by Lingnan University
+This is the teaching materials for the GOV3219 Introduction to Computational Political Science offered by the Department of Government and International Affairs, Lingnan University, Hong Kong. 
